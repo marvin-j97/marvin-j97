@@ -68,7 +68,9 @@
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=marvin-j97&count_private=true&show_icons=true&theme=vue&hide_title=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvin-j97&layout=compact" />
-
+<div style="display: flex;">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marvin-j97&count_private=true&show_icons=true&hide_title=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvin-j97&layout=compact&langs_count=4" />
+</div>
+  
 <img src="https://activity-graph.herokuapp.com/graph?username=marvin-j97&bg_color=none&line=81e1fc&color=ffc777&custom_title=&hide_border=true&area=true" />
