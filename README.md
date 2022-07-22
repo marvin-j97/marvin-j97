@@ -3,69 +3,57 @@
 ## Favs
 
 <div style="display: flex">
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=graphql" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=prisma" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=rust" />
+  <img src="https://skillicons.dev/icons?i=sass" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=typescript" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=vue" />
 </div>
 
 ## Tech
 
 <div style="display: flex">
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+  <img src="https://skillicons.dev/icons?i=actix" />
+  <img src="https://skillicons.dev/icons?i=apollo" />
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=dynamodb" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=gcp" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=md" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nuxt" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=svelte" />
+  <img src="https://skillicons.dev/icons?i=vite" />
 </div>
 
 ## Maybe someday
 
 <div style="display: flex">
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
+  <img src="https://skillicons.dev/icons?i=cassandra" />
+  <img src="https://skillicons.dev/icons?i=deno" />
+  <img src="https://skillicons.dev/icons?i=gatsby" />
+  <img src="https://skillicons.dev/icons?i=tauri" />
 </div>
 
 ## Stats
