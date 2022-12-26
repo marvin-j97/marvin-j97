@@ -4,7 +4,6 @@
 
 <div style="display: flex">
   <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=graphql" />
@@ -25,9 +24,11 @@
   <img src="https://skillicons.dev/icons?i=actix" />
   <img src="https://skillicons.dev/icons?i=apollo" />
   <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=cs" />
   <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=deno" />
   <img src="https://skillicons.dev/icons?i=dynamodb" />
   <img src="https://skillicons.dev/icons?i=express" />
   <img src="https://skillicons.dev/icons?i=git" />
@@ -51,8 +52,6 @@
 
 <div style="display: flex">
   <img src="https://skillicons.dev/icons?i=cassandra" />
-  <img src="https://skillicons.dev/icons?i=deno" />
-  <img src="https://skillicons.dev/icons?i=gatsby" />
   <img src="https://skillicons.dev/icons?i=tauri" />
 </div>
 
