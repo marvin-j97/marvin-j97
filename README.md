@@ -3,6 +3,7 @@
 ## Favs
 
 <div style="display: flex">
+  <img src="https://skillicons.dev/icons?i=astro" />
   <img src="https://skillicons.dev/icons?i=aws" />
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=github" />
@@ -12,6 +13,7 @@
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=rust" />
   <img src="https://skillicons.dev/icons?i=sass" />
+  <img src="https://skillicons.dev/icons?i=solidjs" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=vscode" />
@@ -43,6 +45,7 @@
   <img src="https://skillicons.dev/icons?i=nuxt" />
   <img src="https://skillicons.dev/icons?i=postgres" />
   <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" />
   <img src="https://skillicons.dev/icons?i=svelte" />
   <img src="https://skillicons.dev/icons?i=vite" />
