@@ -55,6 +55,7 @@
 
 <div style="display: flex">
   <img src="https://skillicons.dev/icons?i=cassandra" />
+  <img src="https://skillicons.dev/icons?i=remix" />
   <img src="https://skillicons.dev/icons?i=tauri" />
 </div>
 
