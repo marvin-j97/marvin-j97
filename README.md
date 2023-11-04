@@ -17,7 +17,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=vue" />
 </div>
 
 ## Tech
@@ -48,7 +47,9 @@
   <img src="https://skillicons.dev/icons?i=rabbitmq" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" />
   <img src="https://skillicons.dev/icons?i=svelte" />
+  <img src="https://skillicons.dev/icons?i=tauri" />
   <img src="https://skillicons.dev/icons?i=vite" />
+  <img src="https://skillicons.dev/icons?i=vue" />
 </div>
 
 ## Maybe someday
@@ -56,7 +57,6 @@
 <div style="display: flex">
   <img src="https://skillicons.dev/icons?i=cassandra" />
   <img src="https://skillicons.dev/icons?i=remix" />
-  <img src="https://skillicons.dev/icons?i=tauri" />
 </div>
 
 ## Stats
