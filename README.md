@@ -33,6 +33,7 @@
   <img src="https://skillicons.dev/icons?i=dynamodb" />
   <img src="https://skillicons.dev/icons?i=express" />
   <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=gitlab" />
   <img src="https://skillicons.dev/icons?i=gcp" />
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=java" />
