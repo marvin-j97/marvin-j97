@@ -12,7 +12,6 @@
   <img src="https://skillicons.dev/icons?i=prisma" />
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=rust" />
-  <img src="https://skillicons.dev/icons?i=sass" />
   <img src="https://skillicons.dev/icons?i=solidjs" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="https://skillicons.dev/icons?i=typescript" />
@@ -47,6 +46,7 @@
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=sass" />
   <img src="https://skillicons.dev/icons?i=svelte" />
   <img src="https://skillicons.dev/icons?i=tauri" />
   <img src="https://skillicons.dev/icons?i=vite" />
