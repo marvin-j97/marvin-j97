@@ -15,6 +15,7 @@
   <img src="https://skillicons.dev/icons?i=solidjs" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="https://skillicons.dev/icons?i=typescript" />
+  <img src="https://skillicons.dev/icons?i=vitest" />
   <img src="https://skillicons.dev/icons?i=vscode" />
 </div>
 
@@ -30,6 +31,7 @@
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=deno" />
   <img src="https://skillicons.dev/icons?i=dynamodb" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" />
   <img src="https://skillicons.dev/icons?i=express" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=gitlab" />
@@ -49,6 +51,7 @@
   <img src="https://skillicons.dev/icons?i=sass" />
   <img src="https://skillicons.dev/icons?i=svelte" />
   <img src="https://skillicons.dev/icons?i=tauri" />
+  <img src="https://skillicons.dev/icons?i=terraform" />
   <img src="https://skillicons.dev/icons?i=vite" />
   <img src="https://skillicons.dev/icons?i=vue" />
 </div>
