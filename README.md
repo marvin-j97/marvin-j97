@@ -48,6 +48,7 @@
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=rocket" />
   <img src="https://skillicons.dev/icons?i=sass" />
   <img src="https://skillicons.dev/icons?i=svelte" />
   <img src="https://skillicons.dev/icons?i=tauri" />
@@ -61,6 +62,15 @@
 <div style="display: flex">
   <img src="https://skillicons.dev/icons?i=cassandra" />
   <img src="https://skillicons.dev/icons?i=remix" />
+  <img src="https://skillicons.dev/icons?i=zig" />
+</div>
+
+## Hall of Shame
+
+<div style="display: flex">
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=r" />
+  <img src="https://skillicons.dev/icons?i=wordpress" />
 </div>
 
 ## Stats
