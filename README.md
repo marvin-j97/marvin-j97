@@ -3,12 +3,13 @@
 ## Favs
 
 <div style="display: flex">
+  <img src="https://skillicons.dev/icons?i=actix" />
   <img src="https://skillicons.dev/icons?i=astro" />
   <img src="https://skillicons.dev/icons?i=aws" />
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=graphql" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=pnpm" />
   <img src="https://skillicons.dev/icons?i=prisma" />
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=rust" />
@@ -22,7 +23,6 @@
 ## Tech
 
 <div style="display: flex">
-  <img src="https://skillicons.dev/icons?i=actix" />
   <img src="https://skillicons.dev/icons?i=apollo" />
   <img src="https://skillicons.dev/icons?i=bash" />
   <img src="https://skillicons.dev/icons?i=c" />
@@ -34,6 +34,7 @@
   <img src="https://skillicons.dev/icons?i=elasticsearch" />
   <img src="https://skillicons.dev/icons?i=express" />
   <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=githubactions" />
   <img src="https://skillicons.dev/icons?i=gitlab" />
   <img src="https://skillicons.dev/icons?i=gcp" />
   <img src="https://skillicons.dev/icons?i=html" />
@@ -42,19 +43,24 @@
   <img src="https://skillicons.dev/icons?i=linux" />
   <img src="https://skillicons.dev/icons?i=md" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=nuxt" />
   <img src="https://skillicons.dev/icons?i=postgres" />
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=redis" />
   <img src="https://skillicons.dev/icons?i=rocket" />
   <img src="https://skillicons.dev/icons?i=sass" />
   <img src="https://skillicons.dev/icons?i=svelte" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=swift" />
   <img src="https://skillicons.dev/icons?i=tauri" />
   <img src="https://skillicons.dev/icons?i=terraform" />
   <img src="https://skillicons.dev/icons?i=vite" />
   <img src="https://skillicons.dev/icons?i=vue" />
+  <img src="https://skillicons.dev/icons?i=yarn" />
 </div>
 
 ## Maybe someday
@@ -68,6 +74,7 @@
 ## Hall of Shame
 
 <div style="display: flex">
+  <img src="https://skillicons.dev/icons?i=fortran" />
   <img src="https://skillicons.dev/icons?i=php" />
   <img src="https://skillicons.dev/icons?i=r" />
   <img src="https://skillicons.dev/icons?i=wordpress" />
