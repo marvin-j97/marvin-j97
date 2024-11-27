@@ -1,14 +1,14 @@
-theme = "tokyonight_storm"                                               
-                                                                           
-[editor]                                                                 
-mouse = false                                                            
-bufferline = "multiple"                                                  
-                                                                           
-[keys.normal]                                                            
-esc = ["collapse_selection", "keep_primary_selection"]                   
-                                                                           
-[editor.cursor-shape]                                                    
-insert = "bar"                                                           
-                                                                           
-[editor.file-picker]                                                     
+theme = "vim_dark_high_contrast"
+
+[editor]
+mouse = false
+bufferline = "multiple"
+
+[keys.normal]
+esc = ["collapse_selection", "keep_primary_selection"]
+
+[editor.cursor-shape]
+insert = "bar"
+
+[editor.file-picker]
 hidden = false
