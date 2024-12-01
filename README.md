@@ -9,6 +9,7 @@
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=graphql" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=helix" />
   <img src="https://skillicons.dev/icons?i=pnpm" />
   <img src="https://skillicons.dev/icons?i=prisma" />
   <img src="https://skillicons.dev/icons?i=react" />
