@@ -1,4 +1,4 @@
-theme = "vim_dark_high_contrast"
+theme = "bully"
 
 [editor]
 mouse = false
