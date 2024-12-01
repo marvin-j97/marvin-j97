@@ -64,10 +64,10 @@
 "type.buildin" = "emerald_green"
 "comment" = { fg = "white" }
 "operator" = "white"
-"variable" = { fg = "aqua" }
+"variable" = { fg = "white" }
 "variable.other.member" = "brown"
 "constant" = "aqua"
-"constant.numeric" = "emerald_green"
+"constant.numeric" = { fg = "orange" }
 "attributes" = { fg = "red" }
 "namespace" = "red"
 "string" = "brown"
