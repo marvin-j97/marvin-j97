@@ -62,7 +62,7 @@
 # Syntax high light
 "type" = { fg = "yellow" }
 "type.buildin" = "emerald_green"
-"comment" = { fg = "white" }
+"comment" = { fg = "gray", modifiers = ["italic"] }
 "operator" = "white"
 "variable" = { fg = "white" }
 "variable.other.member" = "brown"
