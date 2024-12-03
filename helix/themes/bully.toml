@@ -49,7 +49,7 @@
 "diagnostic.hint" = { fg = "yellow", modifiers = ["underlined"] }
 "diagnostic.warning" = { fg = "orange", modifiers = ["underlined"] }
 "diagnostic.error" = { fg = "red", modifiers = ["underlined"] }
-"info" = "white" 
+"info" = "blue" 
 "hint" = "yellow"
 "warning" = "orange"
 "error" = "red"
