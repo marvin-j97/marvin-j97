@@ -1,0 +1,246 @@
+#By @Hyp3rgolic
+
+# Modifier
+# bold
+# dim
+# italic
+# underlined
+# slow_blink
+# rapid_blink
+# reversed
+# hidden
+# crossed_out
+
+# line
+# curl
+# dashed
+# dotted
+# double_line
+
+# key = { fg = "#ffffff", bg = "#000000", underline = { color = "#ff0000", style = "curl"}, modifiers = ["bold", "italic"] }
+
+
+"attribute" = "ylw"
+
+"type"              = "pnk" 
+"type.builtin"      = { fg = "pnk", modifiers = ["italic"] } 
+"type.parameter"    = "pnk" 
+"type.enum"         = "pnk" 
+# "type.enum.variant" = "#ff00ff" 
+
+"constructor" = "g5"
+
+"constant"                  = { fg = "g5", modifiers = ["bold"] }
+"constant.builtin"          = "red" 
+# "constant.builtin.boolean"  = "" 
+"constant.character"        = "pnk" 
+"constant.character.escape" = "dbl" 
+"constant.numeric"          = { fg = "blu", modifiers = ["bold"] }
+# "constant.numeric.integer"  = "" 
+# "constant.numeric.float"    = "" 
+
+"string"                = "grn" 
+# "string.regexp"         = "" 
+# "string.special"        = "" 
+# "string.special.path"   = "" 
+# "string.special.url"    = "" 
+# "string.special.symbol" = "" 
+
+"comment"                     = "g1" 
+# "comment.line"                = "" 
+# "comment.block"               = "" 
+# "comment.block.documentation" = "" 
+
+"variable"              = "g5" 
+"variable.builtin"      = "g5"
+# "variable.parameter"    = "cbl" 
+# "variable.other"        = "g3" 
+"variable.other.member" = "g4" 
+
+"label" = { fg = "dbl", modifiers = ["italic"] }
+
+"punctuation"           = "g4" 
+# "punctuation.delimiter" = "#ff00ff" 
+"punctuation.bracket"   = "g3" 
+# "punctuation.special"   = "#ff00ff" 
+
+"keyword"                     = "cyn"
+# "keyword.control"             = "ror" 
+# "keyword.control.conditional" = "" 
+# "keyword.control.repeat"      = "" 
+# "keyword.control.import"      = "" 
+# "keyword.control.return"      = "" 
+# "keyword.control.exception"   = "" 
+# "keyword.operator"            = "ylw" 
+# "keyword.directive"           = "#ff00ff" 
+"keyword.function"            = { fg = "cyn", modifiers = ["italic"] } 
+# "keyword.storage"             = "cyn" 
+# "keyword.storage.type"        = "" 
+# "keyword.storage.modifier"    = "" 
+
+"operator" = "g4" 
+
+"function"         = "blu" 
+"function.builtin" = "orn" 
+"function.method"  = "orn" 
+"function.macro"   = { fg = "orn", modifiers = ["italic"] }
+"function.special" = "orn" 
+
+"tag"         = "ylw" 
+# "tag.builtin" = "" 
+
+"namespace" = "prp"
+
+"special" = { fg = "red", modifiers = ["bold"] }
+
+# "markup"                 = "" 
+# "markup.heading"         = "" 
+# "markup.heading.marker"  = "" 
+# "markup.heading.1"       = "" 
+# "markup.heading.2"       = "" 
+# "markup.heading.3"       = "" 
+# "markup.heading.4"       = "" 
+# "markup.heading.5"       = "" 
+# "markup.heading.6"       = "" 
+# "markup.list"            = "" 
+# "markup.list.unnumbered" = "" 
+# "markup.list.numbered"   = "" 
+# "markup.list.checked"    = "" 
+# "markup.list.unchecked"  = "" 
+# "markup.bold"            = "" 
+# "markup.italic"          = "" 
+# "markup.strikethrough"   = "" 
+# "markup.link"            = "" 
+# "markup.link.url"        = "" 
+# "markup.link.label"      = "" 
+# "markup.link.text"       = "" 
+# "markup.quote"           = "" 
+# "markup.raw"             = "" 
+# "markup.raw.inline"      = "" 
+# "markup.raw.block"       = "" 
+
+# "diff"              = "#ffffff" 
+"diff.plus"         = "g" 
+# "diff.plus.gutter"  = "#00ff00" 
+"diff.minus"        = "r" 
+# "diff.minus.gutter" = "#ff0000" 
+"diff.delta"        = "g2" 
+# "diff.delta.moved"  = "#00ffff" 
+# "diff.delta.gutter" = "" 
+
+"ui.background"           = { bg = "bg0" }
+# "ui.background.separator" = "#ff00ff"
+
+# "ui.cursor"                  = { fg = "#ff00ff", bg = "#ff00ff" }
+# "ui.cursor.insert"         = "#ff00ff"
+# "ui.cursor.normal"         = ""
+# "ui.cursor.select"         = ""
+"ui.cursor.match"          = { bg = "c1", modifiers = ["bold"] }
+# "ui.cursor.primary"        = "#d2d2d2"
+# "ui.cursor.primary.normal" = ""
+# "ui.cursor.primary.insert" = { fg = "#ff00ff", bg = "#ff00ff" }
+# "ui.cursor.primary.select" = ""
+
+# "ui.debug.breakpoint" = ""
+# "ui.debug.active"     = ""
+
+"ui.gutter"          = { bg = "" }
+"ui.gutter.selected" = { bg = "bg1" }
+
+# "ui.highlight.frameline" = { fg = "#ff00ff", bg = "#ff00ff" }
+
+"ui.linenr"                           = "#404040"
+"ui.linenr.selected"                  = "g4"
+
+"ui.statusline"                       = { fg = "g3", bg = "bg1" }
+# "ui.statusline.inactive"              = ""
+# "ui.statusline.normal"                = ""
+# "ui.statusline.insert"                = ""
+# "ui.statusline.select"                = ""
+# "ui.statusline.separator"             = ""
+
+"ui.bufferline"                       = { fg = "g2", bg = "bg1" }
+"ui.bufferline.active"                = { fg = "g5", bg = "bg0" }
+"ui.bufferline.background"            = { bg = "bg1" }
+
+"ui.popup"                            = { bg = "bg1" }
+# "ui.popup.info"                       = ""
+
+# "ui.window"                           = "#ff00ff"
+
+# "ui.help"                             = "#ff00ff"
+
+"ui.text"                             = "g4"
+# "ui.text.focus"                       = ""
+# "ui.text.inactive"                    = ""
+# "ui.text.info"                        = ""
+
+# "ui.virtual.ruler"                    = ""
+# "ui.virtual.whitespace"               = ""
+"ui.virtual.indent-guide"             = "#202020"
+"ui.virtual.inlay-hint"               = "g2"
+# "ui.virtual.inlay-hint.parameter"     = ""
+# "ui.virtual.inlay-hint.type"          = ""
+# "ui.virtual.inlay-hint.wrap"          = ""
+# "ui.virtual.inlay-hint.jump-label"    = ""
+
+"ui.menu"                             = { fg = "g3", bg = "bg1" }
+"ui.menu.selected"                    = { fg = "g5", bg = "bg1" } 
+"ui.menu.scroll"                      = { fg = "g1", bg = "bg1" }
+
+"ui.selection"                        =  { bg = "c1" }
+"ui.selection.primary"                =  { bg = "c0" }
+
+# "ui.higlight"                         = "#ff00ff"
+
+# "ui.cursorline.primary"               = "#ff00ff"
+# "ui.cursorline.secondary"             = "#ff00ff"
+
+# "ui.cursorcolumn.primary"             = "#ff00ff"
+# "ui.cursorcolumn.secondary"           = "#ff00ff"
+
+"warning" = "war"
+"error"   = "err"
+"info"    = "g2"
+"hint"    = "g2"
+
+"diagnostic"                          = { underline = { style = "dashed"} }
+# "diagnostic.hint"                     = ""
+# "diagnostic.info"                     = ""
+# "diagnostic.warning"                  = {fg = "#ff0000", bg = "#ff0000", modifiers = ["underlined"]}
+"diagnostic.error"                    = { underline = { color = "r", style = "curl"},  modifiers = ["slow_blink"] }
+# "diagnostic.unnecessary"              = ""
+# "diagnostic.deprecated"               = ""
+
+[palette]
+
+orn = "#db875c"
+pnk = "#e07b99"
+red = "#e07a70"
+cyn = "#66c49e"
+grn = "#6ab569"
+prp = "#b891ad"
+blu = "#60bad1"
+ylw = "#a79f7b"
+dbl = "#83a3bb"
+
+g5 = "#cccccc"
+g4 = "#aaaaaa"
+g3 = "#999999"
+g2 = "#777777"
+g1 = "#555555"
+g0 = "#333333"
+
+bg0 = "#000000"
+bg1 = "#161616"
+
+c0 = "#1a3040"
+c1 = "#292f32"
+
+r = "#f2716c"
+g = "#43b966"
+b = "#3ba4fc"
+
+err = "#de3b40"
+war = "#d38e22"
+
