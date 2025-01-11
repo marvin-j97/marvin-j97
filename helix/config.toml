@@ -1,4 +1,4 @@
-theme = "bully"
+theme = "flux_oled"
 
 [editor]
 mouse = false
